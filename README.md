@@ -13,3 +13,14 @@
 - 시각화 라이브러리: Mataplotlib, Seaborn
 - 관리: Git, Vim, github flow
 
+<br>
+
+#### 파일 설명
+
+- feat: 기능 개발 관련
+- fix: 오류 개선 혹은 버그 패치
+- docs: 문서화 작업
+- test: test 관련
+- conf: 환경설정 관련
+- build: 빌드 관련
+- ci: Continuous Integration 관
