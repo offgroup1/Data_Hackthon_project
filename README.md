@@ -32,6 +32,7 @@
 
 - 인원: 이세현
 - 역할: Git관리, 데이터 수집 및 가공, EDA, Modeling
+- 개발도구: Colab, Window & M1 Jupyter notebook
 - 언어 : Python
 - 라이브러리: Numpy, Pandas
 - 시각화 라이브러리: Mataplotlib, Seaborn
