@@ -2,4 +2,4 @@
 
 <br>
 
-## [Hard Skill]
+## [Hard Skill](https://github.com/qsdcfd/Data_Hackthon/blob/TIL/docs/Archiving_Hard_Skills.ipynb)
