@@ -35,7 +35,7 @@
 - 역할: github관리, 데이터 전처리(결측치 제거 및 변경), 데이터 시각화, 클러스터링 기법 적용
 - 협업툴: Zep, Google Meet, off-line, Slack, Notion, github
 - 개발도구: Colab, Window & M1 Jupyter notebook
-- 언어 : Python
+- 언어 : Python, MySQL
 - 라이브러리: Numpy, Pandas
 - 시각화 라이브러리: Mataplotlib, Seaborn
 - 관리: Git, Vim, github flow
