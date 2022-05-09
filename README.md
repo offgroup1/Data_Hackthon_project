@@ -31,7 +31,7 @@
 
 **개인 프로젝트**
 
-- 인원: 이세현
+- 인원: 이세현, 이형석, 안희수, 최윤영, 최하은
 - 역할: Git관리, 데이터 수집 및 가공, EDA, Modeling
 - 개발도구: Colab, Window & M1 Jupyter notebook
 - 언어 : Python
