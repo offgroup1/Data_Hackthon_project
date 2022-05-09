@@ -29,10 +29,10 @@
 
 ### Basic information
 
-**개인 프로젝트**
+**팀 프로젝트**
 
-- 인원: 이세현, 이형석, 안희수, 최윤영, 최하은
-- 역할: Git관리, 데이터 수집 및 가공, EDA, Modeling
+- 인원: 김재근, 문석민, 이세현, 이수현, 이채영, 한창헌
+- 협업툴: Zep, Google Meet, off-line, Slack, Notion, github
 - 개발도구: Colab, Window & M1 Jupyter notebook
 - 언어 : Python
 - 라이브러리: Numpy, Pandas
