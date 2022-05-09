@@ -1,0 +1,39 @@
+{
+  "nbformat": 4,
+  "nbformat_minor": 0,
+  "metadata": {
+    "colab": {
+      "name": "data_import_error.py",
+      "provenance": [],
+      "authorship_tag": "ABX9TyPlEpQnFtvWmeRrCHtGn38/"
+    },
+    "kernelspec": {
+      "name": "python3",
+      "display_name": "Python 3"
+    },
+    "language_info": {
+      "name": "python"
+    }
+  },
+  "cells": [
+    {
+      "cell_type": "code",
+      "execution_count": null,
+      "metadata": {
+        "id": "oGK4DyfZgTVd"
+      },
+      "outputs": [],
+      "source": [
+        "data = pd.read_csv('./파이널프로젝트_RAW.csv',encoding='UTF-8')\n",
+        "data # UnicodeDecodeError: 'utf-8' codec can't decode byte 0xbf in position 251: invalid start byte\n",
+        "\n",
+        "\"\"\"\n",
+        "처음 파일은 UTF-8로 변환이된 파일이 아니어서 에러가 떴습니다.\n",
+        "파일 설정을 다르게 한 후 받으니 문제가 해결 되었습니다.\n",
+        "\n",
+        "\n",
+        "\"\"\""
+      ]
+    }
+  ]
+}
