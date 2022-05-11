@@ -4,7 +4,8 @@
 
 <br>
 
-![image](https://user-images.githubusercontent.com/86671456/167321811-fbc80302-d83a-4e47-bd4e-d7db7b648df9.png)
+
+![picture1](https://user-images.githubusercontent.com/86671456/167774703-465e4eaf-00b1-4de2-be2a-eb7f20a428f6.png)
 
 ## Abstract
 
