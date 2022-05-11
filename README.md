@@ -32,7 +32,7 @@
 **팀 프로젝트**
 
 - 인원: 김재근, 문석민, 이세현, 이수현, 이채영, 한창헌
-- 역할: github관리, 데이터 전처리(결측치 제거 및 변경), 데이터 시각화, 클러스터링 기법 적용
+- 역할: Data Agreesion, Data Preprocessing , Data cleaning, Data Visualization, Feature engineering , github-repo
 - 협업툴: Zep, Google Meet, off-line, Slack, Notion, github
 - 개발도구: Colab, Window & M1 Jupyter notebook
 - 언어 : Python, MySQL
