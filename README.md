@@ -33,12 +33,12 @@
 
 - 인원: 김재근, 문석민, 이세현, 이수현, 이채영, 한창헌
 - 역할: Data Agreesion, Data Preprocessing , Data cleaning, Data Visualization, Feature engineering , github-repo
-- 협업툴: Zep, Google Meet, off-line, Slack, Notion, github
-- 개발도구: Colab, Window & M1 Jupyter notebook
+- 협업툴: Zep, Google Meet, off-line, Slack, Notion, github, Google OS
+- 개발도구: Colab, Window & M1 Jupyter notebook, Visual Studio Code
 - 언어 : Python, MySQL
 - 라이브러리: Numpy, Pandas,Plotly,
 - 시각화 라이브러리: Mataplotlib, Seaborn
-- 관리: Git, Vim, github flow
+- 관리: Git, Vim, gitflow
 
 <br>
 
