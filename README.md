@@ -34,7 +34,7 @@
 
 - 인원: 김재근, 문석민, 이세현, 이수현, 이채영, 한창헌
 - 데이터: 거래내역 raw data(csv), crawled Voc data(txt, json)
-- 역할: Data Agreesion, Data Preprocessing , Data cleaning, Data Visualization, Feature engineering , github-repo
+- 역할: Data Agreesion, Data Preprocessing , Data cleaning, Data Visualization, Feature engineering , github-repo, code 리팩토리
 - 협업툴: Zep, Google Meet, off-line, Slack, Notion, github, Google OS
 - 개발도구: Colab, Window & M1 Jupyter notebook, Visual Studio Code
 - 언어 : Python, MySQL
