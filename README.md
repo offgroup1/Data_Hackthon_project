@@ -58,4 +58,3 @@
 - test: test 관련
 - conf: 환경설정 관련
 - build: 빌드 관련
-- ci: Continuous Integration 관
