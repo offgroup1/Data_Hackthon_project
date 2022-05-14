@@ -34,18 +34,21 @@
 
 **추가 시도: 2022.05.24 ~ 2022.06.06**
 
-- 인원: 김재근, 문석민, 이세현(리더), 이수현, 이채영, 한창헌
+- 인원: 김재근, 문석민, 이세현, 이수현, 이채영, 한창헌
+- 직책: 리더(Project Manager)
 - 데이터: E-commerce raw data(csv), crawled Voc data(txt, json)
-- 주 역할: Code Refactoring, Feature engineering, Data Aggregation, Data Preprocessing, Data Cleaning
-- 보조 역할: Marketing paper, Data Visualization, Encoding
-- 추가 역할:github-repo, 회의 기록, 
-- 협업툴: Zep, Google Meet, off-line, Slack, Notion, github, Google OS
-- 개발도구: Colab, Window & M1 Jupyter notebook, Visual Studio Code
+- 주 역할: Data Aggregation, Data Preprocessing, Data Cleaning, Feature engineering,  Code Refactoring 
+- 보조 역할: Marketing paper Review, Data Visualization, Encoding
+- 추가 역할:github-repo, 회의 기록 
+- 협업장소: Zep, Google Meet, off-line, 
+- 소통: Slack
+- 저장소: github, Google OS
+- 개발환경: Window & M1 Jupyter notebook, Colab, Visual Studio Code
 - 언어 : Python, MySQL
 - 라이브러리: Numpy, Pandas, Scikit-learn
 - 시각화 라이브러리: Mataplotlib, Seaborn,Plotly,Plot, WordCloud
 - 시각화 도구: Tableau, Power BI, GA
-- 웹 크롤링: 셀레니움
+- 웹 크롤링: Selenium
 - 관리: Git, Vim, gitflow
 
 <br>
