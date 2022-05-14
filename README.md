@@ -57,4 +57,4 @@
 - docs: 문서화 작업
 - test: test 관련
 - conf: 환경설정 관련
-- build: 빌드 관련
+- build: 데이터 집산
