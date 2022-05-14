@@ -34,12 +34,14 @@
 
 - 인원: 김재근, 문석민, 이세현, 이수현, 이채영, 한창헌
 - 데이터: 거래내역 raw data(csv), crawled Voc data(txt, json)
-- 역할: Data Agreesion, Data Preprocessing , Data cleaning, Data Visualization, Feature engineering , github-repo, code 리팩토리
+- 역할: Data Agreesion, Data Preprocessing , Data cleaning, Data Visualization, Feature engineering , Encoding, github-repo, code 리팩토리
 - 협업툴: Zep, Google Meet, off-line, Slack, Notion, github, Google OS
 - 개발도구: Colab, Window & M1 Jupyter notebook, Visual Studio Code
 - 언어 : Python, MySQL
-- 라이브러리: Numpy, Pandas
+- 라이브러리: Numpy, Pandas, Scikit-learn
 - 시각화 라이브러리: Mataplotlib, Seaborn,Plotly,Plot, WordCloud
+- 시각화 도구: Tableau, Power BI, GA
+- 웹 크롤링: 셀레니움
 - 관리: Git, Vim, gitflow
 
 <br>
