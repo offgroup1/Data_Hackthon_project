@@ -30,11 +30,15 @@
 
 ### Basic information
 
-**팀 프로젝트**
+**공식기간: 2022.05.09 ~ 2022.05.23**
 
-- 인원: 김재근, 문석민, 이세현, 이수현, 이채영, 한창헌
-- 데이터: 거래내역 raw data(csv), crawled Voc data(txt, json)
-- 역할: Data Agreesion, Data Preprocessing , Data cleaning, Data Visualization, Feature engineering , Encoding, github-repo, code 리팩토리
+**추가 시도: 2022.05.24 ~ 2022.06.06**
+
+- 인원: 김재근, 문석민, 이세현(리더), 이수현, 이채영, 한창헌
+- 데이터: E-commerce raw data(csv), crawled Voc data(txt, json)
+- 주 역할: Code Refactoring, Feature engineering, Data Aggregation, Data Preprocessing, Data Cleaning
+- 보조 역할: Marketing paper, Data Visualization, Encoding
+- 추가 역할:github-repo, 회의 기록, 
 - 협업툴: Zep, Google Meet, off-line, Slack, Notion, github, Google OS
 - 개발도구: Colab, Window & M1 Jupyter notebook, Visual Studio Code
 - 언어 : Python, MySQL
