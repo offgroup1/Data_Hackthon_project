@@ -44,7 +44,7 @@
 - 소통: Slack
 - 저장소: github, Google OS
 - 개발환경: Window & M1 Jupyter notebook, Colab, Visual Studio Code
-- 언어 : Python, MySQL
+- 언어 : Python 3.8 , MySQL
 - 라이브러리: Numpy, Pandas, Scikit-learn
 - 시각화 라이브러리: Mataplotlib, Seaborn,Plotly,Plot, WordCloud
 - 시각화 도구: Tableau, Power BI, GA
