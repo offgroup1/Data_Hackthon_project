@@ -33,7 +33,7 @@
 **추가 시도: 2022.05.24 ~ 2022.06.06**
 
 - 인원: 김재근, 문석민, 이세현, 이수현, 이채영, 한창헌
-- 직책: 리더(Project Manager)
+- 직책: 리더(Project Leader)
 - 데이터: E-commerce raw data(csv), crawled Voc data(txt, json)
 - 주 역할: Data Aggregation, Data Preprocessing, Data Cleaning, Feature engineering, Encoding, Modeling, Code Refactoring 
 - 보조 역할: Marketing paper Review, Data Visualization
